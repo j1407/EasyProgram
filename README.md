@@ -2,6 +2,7 @@
 Simple Program Collection
 
 minesweeper.c
+
 It is a simple C program written by me.
 To change the size, please change the value of SIZE_MAX.
 To change the difficulty-level, please change the value of DIFFICULTY.
