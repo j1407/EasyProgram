@@ -3,7 +3,7 @@
 #include<time.h>
 
 #define SIZE_MAX 8
-#define DIFFICULTY 2 // ìÔà’ìxÇÕ1à»è„Ç≈ê›íË
+#define DIFFICULTY 2 // Set with 1 or more
 
 typedef struct fig {
 	int x, y;
@@ -205,7 +205,7 @@ void draw() {
 				}
 			}
 			else {
-				printf("Å°");
+				printf("‚ñ†");
 			}
 		}
 		printf("\n");
